@@ -1,0 +1,12 @@
+name: final
+title: final
+username:
+account: dataproduct1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 388027
+bundleId: 1501060
+url: https://dataproduct1.shinyapps.io/final/
+when: 1532580752.75838
+asMultiple: FALSE
+asStatic: FALSE
